@@ -1,0 +1,13 @@
+D:\practica\Shingles\Shingles\Wombe\Shingles\bin\Debug\Shingles.exe
+D:\practica\Shingles\Shingles\Wombe\Shingles\bin\Debug\Shingles.pdb
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Shingles.csproj.AssemblyReference.cache
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Interop.otkloadr.dll
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Interop.VSTOEE100.dll
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Interop.VSTOEE90.dll
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Shingles.csproj.ResolveComReference.cache
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Shingles.fMain.resources
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Shingles.Properties.Resources.resources
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Shingles.csproj.GenerateResource.cache
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Shingles.csproj.CoreCompileInputs.cache
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Shingles.exe
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Debug\Shingles.pdb

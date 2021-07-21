@@ -1,0 +1,30 @@
+D:\practica\Shingles\Shingles\Wombe\Shingles\bin\Release\Shingles.exe
+D:\practica\Shingles\Shingles\Wombe\Shingles\bin\Release\Shingles.pdb
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Interop.otkloadr.dll
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Interop.VSTOEE100.dll
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Interop.VSTOEE90.dll
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Shingles.csproj.ResolveComReference.cache
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Shingles.fMain.resources
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Shingles.Properties.Resources.resources
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Shingles.csproj.GenerateResource.cache
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Shingles.csproj.CoreCompileInputs.cache
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Shingles.exe
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Shingles.pdb
+D:\practica\Shingles\Shingles\Wombe\Shingles\obj\Release\Shingles.csproj.AssemblyReference.cache
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Shingles.csproj.AssemblyReference.cache
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Interop.otkloadr.dll
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Interop.VSTOEE100.dll
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Interop.VSTOEE90.dll
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Shingles.csproj.ResolveComReference.cache
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Shingles.fMain.resources
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Shingles.Properties.Resources.resources
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Shingles.csproj.GenerateResource.cache
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Shingles.csproj.CoreCompileInputs.cache
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Shingles.exe
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Shingles.pdb
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\bin\Release\Shingles.exe.config
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\bin\Release\Shingles.exe
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\bin\Release\Shingles.pdb
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\bin\Release\System.Numerics.Vectors.dll
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\bin\Release\System.Numerics.Vectors.xml
+D:\practica\Shingles\Shingles — копия\Wombe\Shingles\obj\Release\Shingles.csproj.CopyComplete

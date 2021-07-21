@@ -1,0 +1,34 @@
+D:\My documents\Shingles\bin\Debug\Shingles.exe
+D:\My documents\Shingles\bin\Debug\Shingles.pdb
+D:\My documents\Shingles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My documents\Shingles\obj\x86\Debug\Shingles.fMain.resources
+D:\My documents\Shingles\obj\x86\Debug\Shingles.Properties.Resources.resources
+D:\My documents\Shingles\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My documents\Shingles\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My documents\Shingles\obj\x86\Debug\Shingles.exe
+D:\My documents\Shingles\obj\x86\Debug\Shingles.pdb
+C:\Users\metalluxx\Desktop\Shingles\obj\x86\Debug\Shingles.csprojAssemblyReference.cache
+C:\Users\metalluxx\Desktop\Shingles\obj\x86\Debug\Shingles.fMain.resources
+C:\Users\metalluxx\Desktop\Shingles\obj\x86\Debug\Shingles.Properties.Resources.resources
+C:\Users\metalluxx\Desktop\Shingles\obj\x86\Debug\Shingles.csproj.GenerateResource.cache
+C:\Users\metalluxx\Desktop\Shingles\obj\x86\Debug\Shingles.csproj.CoreCompileInputs.cache
+C:\Users\metalluxx\Desktop\Shingles\obj\x86\Debug\Shingles.exe
+C:\Users\metalluxx\Desktop\Shingles\obj\x86\Debug\Shingles.pdb
+C:\Users\vitya\Downloads\Telegram Desktop\Shingles (2)\Shingles\obj\x86\Debug\Shingles.csprojAssemblyReference.cache
+C:\Users\vitya\Downloads\Telegram Desktop\Shingles (2)\Shingles\obj\x86\Debug\Shingles.fMain.resources
+C:\Users\vitya\Downloads\Telegram Desktop\Shingles (2)\Shingles\obj\x86\Debug\Shingles.Properties.Resources.resources
+C:\Users\vitya\Downloads\Telegram Desktop\Shingles (2)\Shingles\obj\x86\Debug\Shingles.csproj.GenerateResource.cache
+C:\Users\vitya\Downloads\Telegram Desktop\Shingles (2)\Shingles\obj\x86\Debug\Shingles.csproj.CoreCompileInputs.cache
+C:\Users\vitya\Downloads\Telegram Desktop\Shingles (2)\Shingles\obj\x86\Debug\Shingles.exe
+C:\Users\vitya\Downloads\Telegram Desktop\Shingles (2)\Shingles\obj\x86\Debug\Shingles.pdb
+C:\Users\vitya\Downloads\Telegram Desktop\Shingles (2)\Shingles\bin\Debug\Shingles.exe
+C:\Users\vitya\Downloads\Telegram Desktop\Shingles (2)\Shingles\bin\Debug\Shingles.pdb
+d:\Projects\_vstu\Dipl\2021\Bak\Wombe\Wombe\Shingles\bin\Debug\Shingles.exe
+d:\Projects\_vstu\Dipl\2021\Bak\Wombe\Wombe\Shingles\bin\Debug\Shingles.pdb
+d:\Projects\_vstu\Dipl\2021\Bak\Wombe\Wombe\Shingles\obj\x86\Debug\Shingles.csprojAssemblyReference.cache
+d:\Projects\_vstu\Dipl\2021\Bak\Wombe\Wombe\Shingles\obj\x86\Debug\Shingles.fMain.resources
+d:\Projects\_vstu\Dipl\2021\Bak\Wombe\Wombe\Shingles\obj\x86\Debug\Shingles.Properties.Resources.resources
+d:\Projects\_vstu\Dipl\2021\Bak\Wombe\Wombe\Shingles\obj\x86\Debug\Shingles.csproj.GenerateResource.cache
+d:\Projects\_vstu\Dipl\2021\Bak\Wombe\Wombe\Shingles\obj\x86\Debug\Shingles.csproj.CoreCompileInputs.cache
+d:\Projects\_vstu\Dipl\2021\Bak\Wombe\Wombe\Shingles\obj\x86\Debug\Shingles.exe
+d:\Projects\_vstu\Dipl\2021\Bak\Wombe\Wombe\Shingles\obj\x86\Debug\Shingles.pdb
