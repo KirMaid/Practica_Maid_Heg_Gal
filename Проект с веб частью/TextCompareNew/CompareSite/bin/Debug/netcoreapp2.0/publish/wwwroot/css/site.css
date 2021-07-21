@@ -1,0 +1,139 @@
+﻿body {
+    background-color: #f5f5f5;
+}
+
+.body-content {
+    margin-top: 50px;
+    min-height: 85vh;
+}
+
+h1 {
+    margin: 24px 0;
+}
+h2, h3{
+    margin: 20px 0;
+}
+
+.content-box {
+    background-color: #ffffff;
+    box-shadow: 0 5px 25px 0 rgba(0, 0, 0, 0.08);
+    padding: 24px;
+}
+
+a:focus,
+a:hover {
+    text-decoration: none;
+}
+
+.navbar-right {
+    margin-right: -3px;
+}
+
+.float-right {
+    float: right;
+    padding: 0;
+}
+
+.result-box span {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.hidden {
+    display: none;
+}
+
+#file-text-one-box,
+#file-text-two-box {
+    display: none;
+}
+
+.files-area {
+    border: 1px dashed #909090;
+    border-radius: 4px;
+    width: 100%;
+    min-height: 120px;
+    padding: 24px;
+    height: auto;
+}
+
+.is-dragover {
+    border: 1px dashed #333333;
+    background-color: #eafbff
+}
+
+.is-dragover form,
+.is-dragover .attach-file {
+    opacity: 0.1;
+}
+
+.attach-file {
+    display: inline-block;
+    font-size: 24px;
+    padding: 10px;
+    border: 1px solid #ababab;
+    background-color: #e6e6e6;
+    margin: 8px;
+}
+
+.attach-file i.glyphicon-file {}
+
+.attach-file i.glyphicon-remove {
+    color: darkred;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.attach-file i.glyphicon-remove:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.attach-file .file-name {
+    display: inline-block;
+}
+
+i.glyphicon-import {
+    margin-right: 8px;
+}
+
+table tr:nth-child(2n) {
+    background: #f5f5f5;
+}
+
+.actions i{
+    margin: 5px 5px;
+    color: #333333;
+    cursor: pointer;
+}
+
+.actions .glyphicon-download-alt:hover{
+    color: rgb(33, 85, 175);
+}
+
+.actions .glyphicon-edit:hover{
+    color: rgb(218, 181, 0);
+}
+
+.actions .glyphicon-remove:hover{
+    color: rgb(218, 11, 52);
+}
+
+.tab-content{
+    position: relative;
+}
+
+.loader{
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    background-image: url('../svg/loader-white.svg');
+    background-repeat: no-repeat;
+    /*background-size: cover;*/
+    background-position: center;
+    z-index: 1000;
+}

@@ -1,0 +1,79 @@
+@model List<TextFile>
+<hr>
+<h3>@ViewBag.TitleFilesTable</h3>
+<div class="result-table-field">
+    <table class="table">
+        <thead>
+            <tr>
+                <th class="file-id">id</th>
+                <th>Дата добавления</th>
+                <th>Название</th>
+                <th>Описание</th>
+                <th>Имя файла</th>
+                <th>Размер</th>
+                <th>Действия</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(TextFile file in Model)
+            {
+                <tr>
+                    <td class="file-id">@file.Id</td>
+                    <td>@file.Date.ToString("dd.MM.yyyy")</td>
+                    <td class="file-name">@file.Name</td>
+                    <td class="file-description">@file.Description</td>
+                    <td class="file-filename">@file.FileName</td>
+                    <td>@file.Size</td>
+                    <td class="actions">
+                        <i class="glyphicon glyphicon-download-alt"></i>
+                        <i class="glyphicon glyphicon-edit"></i>
+                        <i class="glyphicon glyphicon-remove"></i>
+                    </td>
+                </tr>            
+            }
+        </tbody>
+    </table>
+</div>
+
+<div class="modal fade" id="update-file-modal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h4 class="modal-title">Изменение информации о файле</h4>
+      </div>
+      <div class="modal-body">
+          <form>
+            <input type="hidden" name="id"/>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label>Идентификатор</label>
+                        <input type="text" name="id" class="form-control" disabled/>
+                    </div>
+                    <div class="form-group">
+                        <label>Имя файла</label>
+                        <input type="text" name="file-name" class="form-control" disabled/>
+                    </div>
+                    <div class="form-group">
+                        <label>Название файла</label>
+                        <input type="text" name="name" class="form-control"/>
+                    </div>
+                    <div class="form-group">
+                        <label>Описание</label>
+                        <textarea rows="3" name="description" class="form-control"></textarea>
+                    </div>
+                    
+                </div>
+            </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Отменить</button>
+        <button type="button" class="btn btn-primary">Сохранить</button>
+      </div>
+    </div>
+  </div> 
+</div>

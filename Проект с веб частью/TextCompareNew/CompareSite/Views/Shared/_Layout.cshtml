@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Web-service to compare text documents</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+</head>
+<body>
+ 
+ <header>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="container-fluid"> 
+                <div class="navbar-header"> 
+                    <button type="button" class="collapsed navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-9" aria-expanded="false"> 
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> 
+                        <span class="icon-bar"></span> 
+                        <span class="icon-bar"></span> 
+                    </button> <a href="/" class="navbar-brand">Compare text documents</a> 
+                </div> 
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-9"> 
+                    <ul class="nav navbar-nav"> 
+                        <li><a href="/compare/compare">Сравнение текстов</a></li> 
+                        <li><a href="/file/index">Работа с файлами</a></li> 
+                    </ul>
+                </div> 
+            </div>
+        </div>
+    </nav>
+</header>
+
+    <div class="container">
+         <div class="body-content">
+        @RenderBody()
+        </div>
+        <hr />
+        <footer>
+            <p>&copy; 2017-2018 - Web-service to compare text documents</p>
+        </footer>
+        
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery-3.2.1.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/timer.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

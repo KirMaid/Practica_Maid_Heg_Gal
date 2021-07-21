@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = "Files";
+}
+
+
+<div class="row">
+  <h1>Работа с файлами</h1>
+
+  <div class="tab-container">
+    <ul class="nav nav-tabs">
+      <li class="active navbar-right">
+        <a data-toggle="tab" href="#upload-file">Загрузка файлов</a>
+      </li>
+      <li class="navbar-right">
+        <a data-toggle="tab" href="#find-file">Просмотр информации о файле</a>
+      </li>
+    </ul>
+    <div class="tab-content content-box">
+      <div class="tab-pane active" id="upload-file">
+        @Html.Partial("_UploadFile")
+        <div id="loader-upload-file" class="loader"></div>
+      </div>
+      <div class="tab-pane" id="find-file">
+        @Html.Partial("_FindFile")
+        <div id="loader-find-file" class="loader"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+@section Scripts{
+  <script src="/js/file-worker.js"></script>
+}

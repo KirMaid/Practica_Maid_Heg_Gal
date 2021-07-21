@@ -1,0 +1,18 @@
+@model List<TextFile>
+
+@foreach(TextFile file in Model)
+{
+    <tr>
+        <td class="file-id">@file.Id</td>
+        <td>@file.Date.ToString("dd.MM.yyyy")</td>
+        <td class="file-name">@file.Name</td>
+        <td class="file-description">@file.Description</td>
+        <td class="file-filename">@file.FileName</td>
+        <td>@file.Size</td>
+        <td class="actions">
+            <i class="glyphicon glyphicon-download-alt"></i>
+            <i class="glyphicon glyphicon-edit"></i>
+            <i class="glyphicon glyphicon-remove"></i>
+        </td>
+    </tr>            
+}

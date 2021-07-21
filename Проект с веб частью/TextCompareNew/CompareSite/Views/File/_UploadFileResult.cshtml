@@ -1,0 +1,10 @@
+@model List<TextFile>
+
+@foreach(TextFile file in Model)
+{
+    <div>
+        Файл @file.FileName успешно загружен на сервер
+        <a href="/File/Download/@file.Id">Скачать [@file.Size bytes]</a>
+    </div>
+}
+

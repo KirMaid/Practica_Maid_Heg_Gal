@@ -1,0 +1,76 @@
+@model List<CompareResult>
+
+    @{
+        string filterCategory = "";
+    }
+
+    <div class="col-md-12 title-file-cmp-result">
+        Результат сравнения <span>@ViewBag.TitleFileCmpRes</span> с базой (время сравнения - @ViewBag.TimeCmp сек.):
+    </div>
+
+    <div class="col-md-12 title-file-cmp-result text-ps-result">
+        Результаты с процентом совпадений равным нулю не выводятся с целью повышения скорости работы сайта.
+    </div>
+
+    <div class="col-md-12">
+        <div class="form-group" id="filter-buttons-group">
+            <button type="button" class="btn btn-primary" data-class-show-name="">Все результаты</button>
+            <button type="button" class="btn btn-success" data-class-show-name="category-1">0% совпадений</button>
+            <button type="button" class="btn btn-warning" data-class-show-name="category-2">0-50% совпадений</button>
+            <button type="button" class="btn btn-danger" data-class-show-name="category-3">>50% совпадений</button>
+        </div>
+    </div>
+
+<div class="col-md-12 result-table-field">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Название файла</th>
+                <th>Процент совпадений</th>
+                <th>Скачать</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(CompareResult item in Model)
+            {
+                {
+                    //string className = "";
+                    if(item.Percent == 0)
+                    {
+                        filterCategory = "category-1";
+                    }
+                    else if(item.Percent < 50)
+                    {
+                        filterCategory = "category-2";
+                    }
+                    else if(item.Percent  > 50)
+                    {
+                        filterCategory = "category-3";
+                    }
+                    else
+                    {
+                        filterCategory = "category-0";
+                    }
+                }
+                <tr class="">
+                    <td>@item.TextDocument.FileName</td>
+                    <td class="percent @filterCategory" data-percent="@item.Percent">@item.Percent%</td>
+                    <td>
+                        <a href="/File/Download/@item.TextDocument.Id">Скачать</a>
+                    </td>
+                </tr>
+
+        
+            }
+    <!-- <div class="col-md-12" id="compare-result-field">
+                    <div class="alert className result-box" role="alert">
+                        Результат сравнения с файлом
+                        <span class="">item.TextDocument.FileName</span>
+                        равен
+                        <span class="">item.Percent%</span> схожести.
+                        <a href="/File/Download/item.TextDocument.Id" class="float-right btn btn-link alert-link">Скачать</a>
+                    </div>
+                </div>-->
+        </tbody>
+    </table>
+</div>

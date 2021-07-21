@@ -1,0 +1,55 @@
+/home/andrey/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.deps.json
+/home/andrey/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.runtimeconfig.json
+/home/andrey/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.runtimeconfig.dev.json
+/home/andrey/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.dll
+/home/andrey/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.pdb
+/home/andrey/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.csproj.CoreCompileInputs.cache
+/home/andrey/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.AssemblyInfoInputs.cache
+/home/andrey/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.AssemblyInfo.cs
+/home/andrey/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.dll
+/home/andrey/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.pdb
+d:/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.deps.json
+d:/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.runtimeconfig.json
+d:/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.runtimeconfig.dev.json
+d:/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.dll
+d:/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.pdb
+d:/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.csproj.CoreCompileInputs.cache
+d:/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.AssemblyInfoInputs.cache
+d:/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.AssemblyInfo.cs
+d:/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.dll
+d:/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.pdb
+G:/Диплом 2018/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.deps.json
+G:/Диплом 2018/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.runtimeconfig.json
+G:/Диплом 2018/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.runtimeconfig.dev.json
+G:/Диплом 2018/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.dll
+G:/Диплом 2018/web service windows/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.pdb
+G:/Диплом 2018/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.csproj.CoreCompileInputs.cache
+G:/Диплом 2018/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.AssemblyInfoInputs.cache
+G:/Диплом 2018/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.AssemblyInfo.cs
+G:/Диплом 2018/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.dll
+G:/Диплом 2018/web service windows/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.pdb
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.deps.json
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.runtimeconfig.json
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.runtimeconfig.dev.json
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.dll
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/bin/Debug/netcoreapp2.0/CompareSite.pdb
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.csproj.CoreCompileInputs.cache
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.AssemblyInfoInputs.cache
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.AssemblyInfo.cs
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.dll
+/home/polezhaev/Desktop/TextCompareNEW/CompareSite/obj/Debug/netcoreapp2.0/CompareSite.pdb
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\bin\Debug\netcoreapp2.0\appsettings.json
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\bin\Debug\netcoreapp2.0\bower.json
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\bin\Debug\netcoreapp2.0\CompareSite.deps.json
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\bin\Debug\netcoreapp2.0\CompareSite.runtimeconfig.json
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\bin\Debug\netcoreapp2.0\CompareSite.runtimeconfig.dev.json
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\bin\Debug\netcoreapp2.0\CompareSite.dll
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\bin\Debug\netcoreapp2.0\CompareSite.pdb
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\obj\Debug\netcoreapp2.0\CompareSite.AssemblyInfoInputs.cache
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\obj\Debug\netcoreapp2.0\CompareSite.AssemblyInfo.cs
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\obj\Debug\netcoreapp2.0\CompareSite.csproj.CoreCompileInputs.cache
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\obj\Debug\netcoreapp2.0\CompareSite.dll
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\obj\Debug\netcoreapp2.0\CompareSite.pdb
+D:\meh\ПРОЕКТ С ДОКУМЕНТАЦИЕЙ\TextCompareNew\CompareSite\obj\Debug\netcoreapp2.0\CompareSite.genruntimeconfig.cache

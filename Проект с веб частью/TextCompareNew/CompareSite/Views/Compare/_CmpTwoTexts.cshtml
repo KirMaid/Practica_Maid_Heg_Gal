@@ -1,0 +1,69 @@
+<div class="row">
+<div class="col-xs-12 col-md-6" id="first-text-field">
+    <div class="form-group">
+        <label for="text-one">Первый текст</label>
+        <input type="file" id="file-text-one" name="fileTextOne" class="hidden" accept=".txt,.docx"> 
+        <label class="float-right btn-link" for="file-text-one">
+            <i class="glyphicon glyphicon-import"></i>из файла..
+        </label>     <!--<i class="from-file glyphicon glyphicon-download"><span>из файла..</span></i>-->
+        <textarea class="form-control" id="text-one" rows="10"></textarea>
+
+        <div id="file-text-one-box" class="files-area">
+            <div class="attach-file">
+                <i class="glyphicon glyphicon-file"></i>
+                <div class="file-name"></div>
+                <i class="glyphicon glyphicon-remove remove-file"></i>
+            </div>
+        </div>
+    </div>
+
+    <!--<div class="form-group">
+    <label for="exampleFormControlFile1">Example file input</label>
+    <input type="file" class="form-control-file" id="exampleFormControlFile1">
+    </div>-->
+
+</div>
+
+<div class="col-xs-12 col-md-6" id="second-text-field">
+    <div class="form-group">
+        <label for="text-two">Второй текст</label>
+        <input type="file" id="file-text-two" name="fileTextTwo" class="hidden" accept=".txt,.docx">
+        <label href="" class="float-right btn-link" for="file-text-two">
+            <i class="glyphicon glyphicon-import"></i>из файлa..
+        </label>
+        <textarea class="form-control" id="text-two" rows="10"></textarea>
+
+        <div id="file-text-two-box" class="files-area">
+            <div class="attach-file">
+                <i class="glyphicon glyphicon-file"></i>
+                <div class="file-name"></div>
+                <i class="glyphicon glyphicon-remove remove-file"></i>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row">
+    <div class="col-md-4 col-md-offset-4">
+        <label>Расчитать степень похожести текстов</label>
+        <a href="#" class="btn btn-primary btn-block" id="btn-crc32">CRC32</a>
+        <a href="#" class="btn btn-primary btn-block" id="btn-random-hash">Random Hash</a>
+        <a href="#" class="btn btn-primary btn-block" id="btn-max-hash">Max Hash</a>
+        <a href="#" class="btn btn-primary btn-block" id="btn-min-hash">Min Hash</a>
+
+
+        <a href="#" class="btn btn-primary btn-block" id="compare-with-base-btn" style="display:none;">Сравнить текст с базой</a>
+    </div>
+</div>
+
+<div class="row">
+<hr>
+<div class="col-md-4 col-md-offset-4 text-center" id="cmp-two-result-field" hidden>
+    <div class="alert alert-info result-box" role="alert" >
+    Результат сравнения: <span id="cmp-two-result">0%</span> схожести.
+    </div>
+</div>
+
+<div id="cmp-with-base-result"></div>
+
+</div>

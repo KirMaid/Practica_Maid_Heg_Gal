@@ -1,0 +1,23 @@
+D:\web service windows\CompareSite
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=CompareSite
+--content-root=D:\web service windows\CompareSite
+--file=D:\web service windows\CompareSite\Views\Compare\About.cshtml
+--file=D:\web service windows\CompareSite\Views\Compare\Compare.cshtml
+--file=D:\web service windows\CompareSite\Views\Compare\Index.cshtml
+--file=D:\web service windows\CompareSite\Views\Compare\_CmpTwoTexts.cshtml
+--file=D:\web service windows\CompareSite\Views\Compare\_CmpWithBase.cshtml
+--file=D:\web service windows\CompareSite\Views\Compare\_CompareFilesResult.cshtml
+--file=D:\web service windows\CompareSite\Views\Compare\_Error.cshtml
+--file=D:\web service windows\CompareSite\Views\File\Index.cshtml
+--file=D:\web service windows\CompareSite\Views\File\_Error.cshtml
+--file=D:\web service windows\CompareSite\Views\File\_FilesTableResult.cshtml
+--file=D:\web service windows\CompareSite\Views\File\_FindFile.cshtml
+--file=D:\web service windows\CompareSite\Views\File\_GetFileInfo.cshtml
+--file=D:\web service windows\CompareSite\Views\File\_UploadFile.cshtml
+--file=D:\web service windows\CompareSite\Views\File\_UploadFileResult.cshtml
+--file=D:\web service windows\CompareSite\Views\Shared\Error.cshtml
+--file=D:\web service windows\CompareSite\Views\Shared\_Layout.cshtml
+--file=D:\web service windows\CompareSite\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\web service windows\CompareSite\Views\_ViewImports.cshtml
+--file=D:\web service windows\CompareSite\Views\_ViewStart.cshtml

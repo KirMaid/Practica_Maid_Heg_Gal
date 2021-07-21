@@ -1,0 +1,37 @@
+@{ ViewData["Title"] = "About"; }
+
+<style>
+
+</style>
+
+<div class="row">
+  <h1>Сравнение текстов</h1>
+
+  <div class="tab-container">
+    <ul class="nav nav-tabs">
+      <li class="active navbar-right">
+        <a data-toggle="tab" href="#cmp-two">Сравнение двух текстов</a>
+      </li>
+      <li class="navbar-right">
+        <a data-toggle="tab" href="#cmp-base">Сравнение текста с базой</a>
+      </li>
+    </ul>
+    <div class="tab-content content-box">
+      <div class="tab-pane active" id="cmp-two">
+
+        @Html.Partial("_CmpTwoTexts")
+        <div id="loader-cmp-two-text" class="loader">
+        
+        </div>
+      </div>
+      @*<div class="tab-pane">
+        @Html.Partial("_CmpWithBase")
+      </div>*@
+
+    </div>
+  </div>
+</div>
+
+@section Scripts{
+<script src="/js/compare.js"></script>
+}
